@@ -21,17 +21,15 @@ You can download the app from Google Playstore and use it - **Link -** [Google P
 
 You can download the app from Apple App Store and use it - **Link -** [Apple iStore](dating)
 
----
-**For Desktop Users**
 
----
+### For Desktop Users
+
 1. Click on the Install button which is located in the top navigation bar on the right hand side.
 2. A Desktop will be created in your PC which on clicking will let you use your application.
 
----
-**For Android Phone Users**
 
----
+### For Android Phone Users
+
 1. Click on the Install button which is located in the top navigation bar on the right hand side.
 2. A Mobile App Shortcut will be created in the Home Screen.
 
